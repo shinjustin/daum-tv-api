@@ -1,6 +1,6 @@
-# Daum TV API: An Unoffical Movie and TV Show Metadata API for daum.net
+# Daum TV API
 
-**Daum TV API** is an unofficial API for [daum.net](https://www.daum.net) specifically for its movie and tv show metadata.
+**Daum TV API** is an unofficial daum.net API for Korean TV show metadata.
 
 It is written in Python 3.
 
